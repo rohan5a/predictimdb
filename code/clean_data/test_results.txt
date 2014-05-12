@@ -1,0 +1,222 @@
+genres [u' Action', u' Adventure', u' Fantasy', u' Sci-Fi'] 
+
+name Avatar 
+
+revenue $761M 
+
+mpaa PG_13 
+
+countries [u'USA', u'UK'] 
+
+userscore {'count': u'666,509', 'score': u'7.9'} 
+
+budget $237,000,000 
+
+metascore 83/100 
+
+production [{'url': u'/company/co0000756?ref_=tt_dt_co', 'name': u'Twentieth Century Fox Film Corporation'}, {'url': u'/company/co0174373?ref_=tt_dt_co', 'name': u'Dune Entertainment'}, {'url': u'/company/co0136728?ref_=tt_dt_co', 'name': u'Ingenious Film Partners'}] 
+
+directors [{'url': u'/name/nm0000116/?ref_=tt_ov_dr', 'name': u'James Cameron'}] 
+
+writers [{'url': u'/name/nm0000116/?ref_=tt_ov_wr', 'name': u'James Cameron'}] 
+
+link /title/tt0499549/ 
+
+castlist [u'Sam Worthington', u'Zoe Saldana', u'Sigourney Weaver', u'Stephen Lang', u'Michelle Rodriguez', u'Giovanni Ribisi', u'Joel David Moore', u'CCH Pounder', u'Wes Studi', u'Laz Alonso', u'Dileep Rao', u'Matt Gerald', u'Sean Anthony Moran', u'Jason Whyte', u'Scott Lawrence'] 
+
+stars [{'url': u'/name/nm0941777/?ref_=tt_ov_st', 'name': u'Sam Worthington'}, {'url': u'/name/nm0757855/?ref_=tt_ov_st', 'name': u'Zoe Saldana'}, {'url': u'/name/nm0000244/?ref_=tt_ov_st', 'name': u'Sigourney Weaver'}] 
+
+year (2009) 
+
+release 18 December 2009 (USA) 
+
+tagline 
+A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home. 
+
+runtime 162 mins. 
+
+genres [u' Drama', u' Romance'] 
+
+name Titanic 
+
+revenue $659M 
+
+mpaa PG_13 
+
+countries [u'USA'] 
+
+userscore {'count': u'572,724', 'score': u'7.7'} 
+
+budget $200,000,000 
+
+metascore 74/100 
+
+production [{'url': u'/company/co0000756?ref_=tt_dt_co', 'name': u'Twentieth Century Fox Film Corporation'}, {'url': u'/company/co0023400?ref_=tt_dt_co', 'name': u'Paramount Pictures'}, {'url': u'/company/co0038663?ref_=tt_dt_co', 'name': u'Lightstorm Entertainment'}] 
+
+directors [{'url': u'/name/nm0000116/?ref_=tt_ov_dr', 'name': u'James Cameron'}] 
+
+writers [{'url': u'/name/nm0000116/?ref_=tt_ov_wr', 'name': u'James Cameron'}] 
+
+link /title/tt0120338/ 
+
+castlist [u'Leonardo DiCaprio', u'Kate Winslet', u'Billy Zane', u'Kathy Bates', u'Frances Fisher', u'Gloria Stuart', u'Bill Paxton', u'Bernard Hill', u'David Warner', u'Victor Garber', u'Jonathan Hyde', u'Suzy Amis', u'Lewis Abernathy', u'Nicholas Cascone', u'Anatoly M. Sagalevitch'] 
+
+stars [{'url': u'/name/nm0000138/?ref_=tt_ov_st', 'name': u'Leonardo DiCaprio'}, {'url': u'/name/nm0000701/?ref_=tt_ov_st', 'name': u'Kate Winslet'}, {'url': u'/name/nm0000708/?ref_=tt_ov_st', 'name': u'Billy Zane'}] 
+
+year (1997) 
+
+release 19 December 1997 (USA) 
+
+tagline 
+A seventeen-year-old aristocrat, expecting to be married to a rich claimant by her mother, falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic. 
+
+runtime 194 mins. 
+
+genres [u' Action', u' Sci-Fi'] 
+
+name The Avengers 
+
+revenue $623M 
+
+mpaa PG_13 
+
+countries [u'USA'] 
+
+userscore {'count': u'654,845', 'score': u'8.2'} 
+
+budget $220,000,000 
+
+metascore 69/100 
+
+production [{'url': u'/company/co0051941?ref_=tt_dt_co', 'name': u'Marvel Studios'}, {'url': u'/company/co0023400?ref_=tt_dt_co', 'name': u'Paramount Pictures'}] 
+
+directors [{'url': u'/name/nm0923736/?ref_=tt_ov_dr', 'name': u'Joss Whedon'}] 
+
+writers [{'url': u'/name/nm0923736/?ref_=tt_ov_wr', 'name': u'Joss Whedon'}, {'url': u'/name/nm0672015/?ref_=tt_ov_wr', 'name': u'Zak Penn'}] 
+
+link /title/tt0848228/ 
+
+castlist [u'Robert Downey Jr.', u'Chris Evans', u'Mark Ruffalo', u'Chris Hemsworth', u'Scarlett Johansson', u'Jeremy Renner', u'Tom Hiddleston', u'Clark Gregg', u'Cobie Smulders', u'Stellan Skarsg\xe5rd', u'Samuel L. Jackson', u'Gwyneth Paltrow', u'Paul Bettany', u'Alexis Denisof', u'Tina Benko'] 
+
+stars [{'url': u'/name/nm0000375/?ref_=tt_ov_st', 'name': u'Robert Downey Jr.'}, {'url': u'/name/nm0262635/?ref_=tt_ov_st', 'name': u'Chris Evans'}, {'url': u'/name/nm0424060/?ref_=tt_ov_st', 'name': u'Scarlett Johansson'}] 
+
+year (2012) 
+
+release 4 May 2012 (USA) 
+
+tagline 
+Nick Fury of S.H.I.E.L.D. assembles a team of superheroes to save the planet from Loki and his army. 
+
+runtime 143 mins. 
+
+genres [u' Action', u' Crime', u' Drama', u' Thriller'] 
+
+name The Dark Knight 
+
+revenue $533M 
+
+mpaa PG_13 
+
+countries [u'USA', u'UK'] 
+
+userscore {'count': u'1,170,786', 'score': u'9.0'} 
+
+budget $185,000,000 
+
+metascore 82/100 
+
+production [{'url': u'/company/co0026840?ref_=tt_dt_co', 'name': u'Warner Bros.'}, {'url': u'/company/co0159111?ref_=tt_dt_co', 'name': u'Legendary Pictures'}, {'url': u'/company/co0147954?ref_=tt_dt_co', 'name': u'Syncopy'}] 
+
+directors [{'url': u'/name/nm0634240/?ref_=tt_ov_dr', 'name': u'Christopher Nolan'}] 
+
+writers [{'url': u'/name/nm0634300/?ref_=tt_ov_wr', 'name': u'Jonathan Nolan'}, {'url': u'/name/nm0634240/?ref_=tt_ov_wr', 'name': u'Christopher Nolan'}] 
+
+link /title/tt0468569/ 
+
+castlist [u'Christian Bale', u'Heath Ledger', u'Aaron Eckhart', u'Michael Caine', u'Maggie Gyllenhaal', u'Gary Oldman', u'Morgan Freeman', u'Monique Gabriela Curnen', u'Ron Dean', u'Cillian Murphy', u'Chin Han', u'Nestor Carbonell', u'Eric Roberts', u'Ritchie Coster', u'Anthony Michael Hall'] 
+
+stars [{'url': u'/name/nm0000288/?ref_=tt_ov_st', 'name': u'Christian Bale'}, {'url': u'/name/nm0005132/?ref_=tt_ov_st', 'name': u'Heath Ledger'}, {'url': u'/name/nm0001173/?ref_=tt_ov_st', 'name': u'Aaron Eckhart'}] 
+
+year (2008) 
+
+release 18 July 2008 (USA) 
+
+tagline 
+When Batman, Gordon and Harvey Dent launch an assault on the mob, they let the clown out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes down to his level. 
+
+runtime 152 mins. 
+
+genres [u' Action', u' Adventure', u' Fantasy', u' Sci-Fi'] 
+
+name Star Wars: Episode I - The Phantom Menace 
+
+revenue $475M 
+
+mpaa PG 
+
+countries [u'USA'] 
+
+userscore {'count': u'384,547', 'score': u'6.6'} 
+
+budget $115,000,000 
+
+metascore 51/100 
+
+production [{'url': u'/company/co0071326?ref_=tt_dt_co', 'name': u'Lucasfilm'}] 
+
+directors [{'url': u'/name/nm0000184/?ref_=tt_ov_dr', 'name': u'George Lucas'}] 
+
+writers [{'url': u'/name/nm0000184/?ref_=tt_ov_wr', 'name': u'George Lucas'}] 
+
+link /title/tt0120915/ 
+
+castlist [u'Liam Neeson', u'Ewan McGregor', u'Natalie Portman', u'Jake Lloyd', u'Ian McDiarmid', u'Pernilla August', u'Oliver Ford Davies', u'Hugh Quarshie', u'Ahmed Best', u'Anthony Daniels', u'Kenny Baker', u'Frank Oz', u'Terence Stamp', u'Brian Blessed', u'Andy Secombe'] 
+
+stars [{'url': u'/name/nm0000191/?ref_=tt_ov_st', 'name': u'Ewan McGregor'}, {'url': u'/name/nm0000553/?ref_=tt_ov_st', 'name': u'Liam Neeson'}, {'url': u'/name/nm0000204/?ref_=tt_ov_st', 'name': u'Natalie Portman'}] 
+
+year (1999) 
+
+release 19 May 1999 (USA) 
+
+tagline 
+Two Jedi Knights escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to reclaim their old glory. 
+
+runtime 136 mins. 
+
+genres [u' Action', u' Adventure', u' Fantasy', u' Sci-Fi'] 
+
+name Star Wars 
+
+revenue $461M 
+
+mpaa PG 
+
+countries [u'USA'] 
+
+userscore {'count': u'642,092', 'score': u'8.7'} 
+
+budget $11,000,000 
+
+metascore 91/100 
+
+production [{'url': u'/company/co0071326?ref_=tt_dt_co', 'name': u'Lucasfilm'}, {'url': u'/company/co0000756?ref_=tt_dt_co', 'name': u'Twentieth Century Fox Film Corporation'}] 
+
+directors [{'url': u'/name/nm0000184/?ref_=tt_ov_dr', 'name': u'George Lucas'}] 
+
+writers [{'url': u'/name/nm0000184/?ref_=tt_ov_wr', 'name': u'George Lucas'}] 
+
+link /title/tt0076759/ 
+
+castlist [u'Mark Hamill', u'Harrison Ford', u'Carrie Fisher', u'Peter Cushing', u'Alec Guinness', u'Anthony Daniels', u'Kenny Baker', u'Peter Mayhew', u'David Prowse', u'Phil Brown', u'Shelagh Fraser', u'Jack Purvis', u'Alex McCrindle', u'Eddie Byrne', u'Drewe Henley'] 
+
+stars [{'url': u'/name/nm0000434/?ref_=tt_ov_st', 'name': u'Mark Hamill'}, {'url': u'/name/nm0000148/?ref_=tt_ov_st', 'name': u'Harrison Ford'}, {'url': u'/name/nm0000402/?ref_=tt_ov_st', 'name': u'Carrie Fisher'}] 
+
+year (1977) 
+
+release 25 May 1977 (USA) 
+
+tagline 
+Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the universe from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader. 
+
+runtime 121 mins. 
+
