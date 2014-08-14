@@ -2,6 +2,10 @@ import gc, bs4, time, json
 from urllib2 import urlopen
 from scraper import *
 
+"""
+attempts to read url and return HTML - will attempt
+until recursion limit is reached (in case a bad read happens)
+"""
 def read_url(url):
     try: 
         html = urlopen(url, timeout=5).read()
@@ -12,6 +16,10 @@ def read_url(url):
         return read_url(url)
     return html
 
+"""
+scrapes the data on a movie given the link to the IMDB movie page
+called by scrape_links function (below)
+"""
 def scrape_movie_page(link):
     base = 'http://www.imdb.com'
     html = read_url(base+link)
@@ -34,10 +42,13 @@ def scrape_movie_page(link):
     # for key in movie.keys(): print key, movie[key], '\n'
     return movie
 
+"""
+calls scrape_movie_page to scrape movie data for each movie
+link stored in links.json. saves 100 movies at a time
+"""
 def scrape_links(delay=1, savelimit=100):
-
+    
     gc.enable()
-
     movies, full_movies, count = load_json('links.json'), [], 1
 
     for movie in movies:
@@ -48,11 +59,9 @@ def scrape_links(delay=1, savelimit=100):
             continue
 
         time.sleep(delay)
-
         full_data = scrape_movie_page(movie['link'])
 
         movie.update(full_data)
-
         full_movies.append(movie)
 
         print count, movie['name'], movie['year'], movie['revenue']
@@ -70,6 +79,10 @@ def scrape_links(delay=1, savelimit=100):
         # print keys and values, for testing purposes
         # for key in movie.keys(): print key, movie[key], '\n'
 
+"""
+parses the HTML for IMDB-ranked top box office movies; called
+by scrape_many (this is a helper function that does the heavy lifting)
+"""
 def scrape_movies(url):
 
     html = read_url(url)
@@ -109,6 +122,10 @@ def scrape_movies(url):
     if nullrev > 10: STOP = True
     return (movies, STOP)
 
+"""
+calls scrape_movies to get the movie page link and associated metadata
+for top box office movies; saves output in links.json
+"""
 def scrape_many(start=1, step=50, delay=1):
 
     base = 'http://www.imdb.com/search/'
